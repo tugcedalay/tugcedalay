@@ -1,4 +1,3 @@
- [![MasterHead]([https://www.canva.com/design/DAF_H7CuP0w/9D5L01Q_ex_Jc9Q2hEQEbA/view](https://wallpapercave.com/wp/wp5357551.png))
 <h1 align="center">Hi 👋, I'm Tugce Dalay</h1>
 <h3 align="center">Fullstack developer student at Tobeto</h3>
 
