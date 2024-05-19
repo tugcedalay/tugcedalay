@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tugce Dalay</h1>
 <h3 align="center">Fullstack developer student at Tobeto</h3>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **tgcdalay@gmail.com**
 
