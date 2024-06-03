@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuğçe Nur Dalay</h1>
-<h3 align="center">Fullstack developer student at Tobeto</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF07FF&center=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Tu%C4%9F%C3%A7e+Nur+Dalay+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **Angular**
 
