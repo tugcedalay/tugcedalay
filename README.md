@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tugce-dalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugce-dalay" height="30" width="40" /></a>
 <a href="https://www.behance.net/tugcedalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tugcedalay" height="30" width="40" /></a>
+<iframe src="https://gifer.com/embed/PYh" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=true">    <img  alt="tugcedalay's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tugcedalay?cardType=github&theme=radical&preferLogin=true" />  </a> 
 <h3 align="left">Languages and Tools:</h3>
